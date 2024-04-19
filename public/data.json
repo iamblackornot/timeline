@@ -1,10 +1,9 @@
 {
     "items":
         [
-            { "time": "14:00", "content": "past event 1" },
-            { "time": "18:00", "content": "past event 2" },
-            { "time": "18:30", "content": "past event 3" },
-            { "time": "23:15", "content": "active event" },
-            { "time": "23:45", "content": "upcoming event" }
+            { "time": "2024-04-19 14:00", "content": "past event 1" },
+            { "time": "2024-04-19 17:00", "content": "active event" },
+            { "time": "2024-04-19 18:00", "content": "upcoming event 1" },
+            { "time": "2024-04-19 19:00", "content": "upcoming event 2" }
         ]
 }

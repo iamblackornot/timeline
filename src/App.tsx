@@ -35,7 +35,6 @@ function App() {
 
     return () => {
       clearInterval(intervalId);
-      console.log("useEffect return"); 
     };
   }, []);
 
